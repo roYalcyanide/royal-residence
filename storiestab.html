@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+      <title>Stories Page</title> 
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>  
+  <body>  
+    <form align="left" class="menu">
+      <input type="button" value="Home" onclick="window.location.href='home.html'" class="content" /> &nbsp &nbsp
+      <input type="button" value="Games" onclick="window.location.href='games.html'" class="content" /> &nbsp &nbsp
+      <input type="button" value="Stories" onclick="window.location.href='storiestab.html'" class="content" /> &nbsp &nbsp
+      <input type="button" value="Updates" onclick="window.location.href='updates.html'" class="content" /> &nbsp &nbsp
+      <input type="button" value="Concerns" onclick="window.location.href='concerns.html'" class="content" /> &nbsp &nbsp
+    </form><hr color="SaddleBrown" />
+      <h1 class="header"><a href="stories.html">Stories</a></h1>
+      <p> &nbsp &nbsp &nbsp If you want to have your story posted, either send me your story in a document below or by copy and pasting your story in the text box. And if you want to read these stories, click on the "Stories" link above.</p><hr color="SaddleBrown" /><br />
+      <form method=POST action="mailto:chrisroyalparfittjr@gmail.com" enctype="text/plain" align="center" />    
+      <h1 class="send">Send your Story and Have it Posted!</h1><br />
+      <p class="storymessage">First type in your email address:</p>
+      <input type="text" name="address" class="textarea"/><br /><br />
+      <p class="storymessage">Upload a file:</p>    
+      <input type="file" name="upload" class="upload"/><br /><br />
+      <h2 class="or"><strong>OR:</strong></h2>
+      <p class="storymessage">Copy and paste:</p>
+      <textarea type="text" cols="100" rows="50" name="story" class="textarea" />
+    </textarea><br /><br />
+    <input type="submit" name="submit" class="submit" /><br />
+    </body>  
+</html>
