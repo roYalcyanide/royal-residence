@@ -1,0 +1,197 @@
+hr {
+  height: 3px;
+  border-radius: 12px;
+}
+
+.content {
+  width: 150px;
+  height: 45px;
+  font-size: 30px;
+  border-radius: 12px;
+  background: Brown;
+  border-color: Black;
+  
+}
+
+body {
+  background-image: url("http://www.bbqbossusa.com/wp-content/uploads/2016/09/BBQ-BOSS-Wood-Background-1600.jpg");
+}
+
+p {
+  font-size: 25px;
+  color: black;
+  background: Maroon;
+  padding: 5px;
+  border-radius: 12px;
+}
+
+.header {
+  color: black;
+  background: Sienna;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.ideas {
+  color: black;
+  font-size: 25px;
+  background: Maroon;
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 12px;
+}
+
+.storymessage {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.input {
+  background: Sienna;
+  color: black;
+  margin-right: 355px;
+  margin-left: 355px;
+  border-radius: 12px;
+}
+
+.submit {
+  width: 120px;
+  height: 45px;
+  font-size: 30px;
+  border-radius: 12px;
+  border-color: Black;
+  background: Brown;
+}
+
+.message {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.menu {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+  padding: 10px;
+}
+
+.upload {
+  background: Chocolate;
+  font-size: 17px;
+  border-radius: 12px;
+  padding: 7px;
+  border-color: Black;
+  background: Brown;
+}
+
+.quote {
+  background: Maroon;
+  border-radius: 12px;
+  padding: 5px;
+  margin-right: 1010px;
+}
+
+.send {
+  background: Sienna;
+  color: black;
+  border-radius: 12px;
+  padding: 5px;
+  margin-right: 355px;
+  margin-left: 355px;
+}
+
+A:link {color:Black;}
+A:visited {color:Black;}
+
+.textarea {
+  border-radius: 12px;
+}
+
+.image {
+  border-radius: 12px;
+}
+
+.listofnames {
+  background: Chocolate;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.names {
+  height: 45px;
+  width: 235px;
+  font-size: 27px;
+  border-radius: 12px;
+  border-color: Black;
+  background: Maroon;
+}
+
+.or {
+  margin-right: 620px;
+  margin-left: 620px;
+  color: black;
+  background: Sienna;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.concernsheader {
+  margin-right: 355px;
+  margin-left: 355px;
+  background: Sienna;
+  border-radius: 12px;
+}
+
+.concernmessage {
+  margin-left: 500px;
+  margin-right: 500px;
+  border-radius: 12px;
+  background: Maroon;
+}
+
+.textbox {
+  border-radius: 12px;
+}
+
+.concernchoices {
+  border-radius: 12px;
+  font-size: 20px;
+  height: 50px; 
+  width: 120px;
+}
+
+.stats {
+  background: Sienna;
+  border-radius: 12px;
+  font-size: 25px;
+}
+
+.markstory {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+}
+
+.chrisstory {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+}
+
+.kaelistory {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+}
+
+.katystory {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+}
+
+.sofiastory {
+  background: Chocolate;
+  border-radius: 12px;
+  border-color: Black;
+}
